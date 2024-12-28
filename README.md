@@ -30,7 +30,7 @@ All your videos and images are processed locally on your device. We never upload
 You have full control over your content - delete locally means delete completely.
 
 ## Platform
-Currently available for macOS.
+Please download the latest release from [here](https://github.com/pispark/vidify/releases). Currently available for macOS.
 
 ## Feedback
 Have suggestions or found a bug? Please submit an issue on GitHub [here](https://github.com/pispark/vidify/issues).
